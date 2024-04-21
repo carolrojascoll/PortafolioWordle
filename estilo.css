@@ -2,7 +2,7 @@ body {
   text-align: center;
   margin-top: 50px;
     font-family: Arial, sans-serif;
-    background-image: url('/img/desenfoqueño.jpg'); /* Reemplaza 'ruta_de_la_imagen.jpg' con la ruta de tu imagen */
+    background-image: url('./img/desenfoqueño.jpg'); /* Reemplaza 'ruta_de_la_imagen.jpg' con la ruta de tu imagen */
      background-size: cover; /* Ajusta la imagen para cubrir toda el fondo */
 }
    
